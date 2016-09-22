@@ -1,0 +1,80 @@
+{
+  "id": 1108702577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-49.2832886,-25.4343563,-49.2832886,-25.4343563",
+    "geom:latitude":-25.434356,
+    "geom:longitude":-49.283289,
+    "iso:country":"BR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Al. Dr. Carlos de Carvalho N\u00famero 655 Conjunto 403",
+    "sg:city":"Curitiba",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"80430-180",
+    "sg:tags":[
+        "imoveis",
+        "real-estate",
+        "property"
+    ],
+    "sg:website":"http://imobilien.com.br",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85766759,
+        102191577,
+        404561111,
+        85633009,
+        101957995,
+        102057617,
+        85681983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02dFXS9oAm8HSsLJPb1Uv2_-25.434356_-49.283289@1308163240"
+    },
+    "wof:country":"BR",
+    "wof:created":1474570870,
+    "wof:geomhash":"1db39831d4d7849eec9e1c9ad61ab7b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102057617,
+            "localadmin_id":404561111,
+            "locality_id":101957995,
+            "neighbourhood_id":85766759,
+            "region_id":85681983,
+            "venue_id":1108702577
+        }
+    ],
+    "wof:id":1108702577,
+    "wof:lastmodified":1474570870,
+    "wof:name":"Imobilien",
+    "wof:parent_id":85766759,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-br",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "imoveis",
+        "real-estate",
+        "property"
+    ]
+},
+  "bbox": [
+    -49.2832886,
+    -25.4343563,
+    -49.2832886,
+    -25.4343563
+],
+  "geometry": {"coordinates":[-49.2832886,-25.4343563],"type":"Point"}
+}

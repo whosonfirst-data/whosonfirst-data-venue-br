@@ -1,0 +1,98 @@
+{
+  "id": 1108702607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-46.698267,-23.620738,-46.698267,-23.620738",
+    "geom:latitude":-23.620738,
+    "geom:longitude":-46.698267,
+    "iso:country":"BR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av. Dr. Chucri Zaidan, 920 - 9.  ander",
+    "sg:city":"Sao Paulo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"04583-904",
+    "sg:tags":[
+        "load-balancing",
+        "application-delivery",
+        "security",
+        "remote-access",
+        "web-application-security",
+        "web-services",
+        "optimization",
+        "acceleration",
+        "high-availability",
+        "scalability",
+        "failover",
+        "virtualization"
+    ],
+    "sg:website":"http://www.f5.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85766041,
+        102191577,
+        404567345,
+        85633009,
+        101965533,
+        102062255,
+        85682041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2otCJWzvBDTuyw2CBC7kVY_-23.620738_-46.698267@1308163238"
+    },
+    "wof:country":"BR",
+    "wof:created":1474570871,
+    "wof:geomhash":"789d56065714513e09ca7960b8beab78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102062255,
+            "localadmin_id":404567345,
+            "locality_id":101965533,
+            "neighbourhood_id":85766041,
+            "region_id":85682041,
+            "venue_id":1108702607
+        }
+    ],
+    "wof:id":1108702607,
+    "wof:lastmodified":1474570871,
+    "wof:name":"F5 Networks",
+    "wof:parent_id":85766041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-br",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "load-balancing",
+        "application-delivery",
+        "security",
+        "remote-access",
+        "web-application-security",
+        "web-services",
+        "optimization",
+        "acceleration",
+        "high-availability",
+        "scalability",
+        "failover",
+        "virtualization"
+    ]
+},
+  "bbox": [
+    -46.698267,
+    -23.620738,
+    -46.698267,
+    -23.620738
+],
+  "geometry": {"coordinates":[-46.698267,-23.620738],"type":"Point"}
+}

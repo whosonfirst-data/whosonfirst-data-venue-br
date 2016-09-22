@@ -1,0 +1,84 @@
+{
+  "id": 1108702597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-46.6773686,-23.5815208,-46.6773686,-23.5815208",
+    "geom:latitude":-23.581521,
+    "geom:longitude":-46.677369,
+    "iso:country":"BR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rua Pedroso Alvarenga, 990, sala 72, itaim bibi",
+    "sg:city":"Sao Paulo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"04531011",
+    "sg:tags":[
+        "bytagg",
+        "rss-reader",
+        "twitter-alert",
+        "news",
+        "alert"
+    ],
+    "sg:website":"http://dp7digital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85765309,
+        102191577,
+        404567345,
+        85633009,
+        101965533,
+        102062255,
+        85682041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49T5KsKLMmq2JJouNh3RqL_-23.581521_-46.677369@1308163241"
+    },
+    "wof:country":"BR",
+    "wof:created":1474570871,
+    "wof:geomhash":"82b64a39b9b2890496a4c15adc7ac5c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102062255,
+            "localadmin_id":404567345,
+            "locality_id":101965533,
+            "neighbourhood_id":85765309,
+            "region_id":85682041,
+            "venue_id":1108702597
+        }
+    ],
+    "wof:id":1108702597,
+    "wof:lastmodified":1474570871,
+    "wof:name":"DP7 Digital",
+    "wof:parent_id":85765309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-br",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bytagg",
+        "rss-reader",
+        "twitter-alert",
+        "news",
+        "alert"
+    ]
+},
+  "bbox": [
+    -46.6773686,
+    -23.5815208,
+    -46.6773686,
+    -23.5815208
+],
+  "geometry": {"coordinates":[-46.6773686,-23.5815208],"type":"Point"}
+}

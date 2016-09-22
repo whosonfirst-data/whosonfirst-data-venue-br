@@ -1,0 +1,86 @@
+{
+  "id": 1108702573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-43.1698887,-22.9534377,-43.1698887,-22.9534377",
+    "geom:latitude":-22.953438,
+    "geom:longitude":-43.169889,
+    "iso:country":"BR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rua Urbano Santos, 9 Urca",
+    "sg:city":"Rio de Janeiro",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"22291-260",
+    "sg:tags":[
+        "ad-network",
+        "affiliate-network",
+        "performance-marketing",
+        "sem",
+        "seo",
+        "brazil",
+        "latin-america"
+    ],
+    "sg:website":"http://www.hi-midia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85681991,
+        102191577,
+        85633009,
+        101953261,
+        102058455,
+        85767063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53QtD0lsfOrhLWFVleWRJJ_-22.953438_-43.169889@1308163239"
+    },
+    "wof:country":"BR",
+    "wof:created":1474570870,
+    "wof:geomhash":"c44c44d4a3b6fcc56b2063a24b0e6f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102058455,
+            "locality_id":101953261,
+            "neighbourhood_id":85767063,
+            "region_id":85681991,
+            "venue_id":1108702573
+        }
+    ],
+    "wof:id":1108702573,
+    "wof:lastmodified":1474570870,
+    "wof:name":"Hi-Midia",
+    "wof:parent_id":85767063,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-br",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ad-network",
+        "affiliate-network",
+        "performance-marketing",
+        "sem",
+        "seo",
+        "brazil",
+        "latin-america"
+    ]
+},
+  "bbox": [
+    -43.1698887,
+    -22.9534377,
+    -43.1698887,
+    -22.9534377
+],
+  "geometry": {"coordinates":[-43.1698887,-22.9534377],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1108702595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-46.6872018,-23.5910421,-46.6872018,-23.5910421",
+    "geom:latitude":-23.591042,
+    "geom:longitude":-46.687202,
+    "iso:country":"BR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av. Presidente Juscelino Kubitschek, 1830 12\u00ba andar  Torres I e II",
+    "sg:city":"S\u00e3o Paulo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"04543-900 ",
+    "sg:website":"http://www.cpmbraxis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85766041,
+        102191577,
+        404567345,
+        85633009,
+        101965533,
+        102062255,
+        85682041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HPfKDdvJBHLlKFWmUB6ZR_-23.591042_-46.687202@1308163241"
+    },
+    "wof:country":"BR",
+    "wof:created":1474570871,
+    "wof:geomhash":"57a9444266a16ed08f33a2a4d84145fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102062255,
+            "localadmin_id":404567345,
+            "locality_id":101965533,
+            "neighbourhood_id":85766041,
+            "region_id":85682041,
+            "venue_id":1108702595
+        }
+    ],
+    "wof:id":1108702595,
+    "wof:lastmodified":1474570871,
+    "wof:name":"CPM Braxis",
+    "wof:parent_id":85766041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-br",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -46.6872018,
+    -23.5910421,
+    -46.6872018,
+    -23.5910421
+],
+  "geometry": {"coordinates":[-46.6872018,-23.5910421],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1108702605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-43.937268,-19.944326,-43.937268,-19.944326",
+    "geom:latitude":-19.944326,
+    "geom:longitude":-43.937268,
+    "iso:country":"BR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rua Lavras 732 S\u00e3o Pedro",
+    "sg:city":"Belo Horizonte",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30330010",
+    "sg:tags":[
+        "software",
+        "software-house",
+        "web-development",
+        "interface",
+        "ia",
+        "ux",
+        "rails",
+        "ruby",
+        "python",
+        "c",
+        "php",
+        "web",
+        "web-2-0",
+        "happiness"
+    ],
+    "sg:website":"http://www.milk-it.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85766401,
+        102191577,
+        404555403,
+        85633009,
+        101948979,
+        102053515,
+        85681941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nbk5n8YG0SrxiFWJYlhCu_-19.944326_-43.937268@1308163238"
+    },
+    "wof:country":"BR",
+    "wof:created":1474570871,
+    "wof:geomhash":"80388ab865c034d24fb0bf06a64b4266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102053515,
+            "localadmin_id":404555403,
+            "locality_id":101948979,
+            "neighbourhood_id":85766401,
+            "region_id":85681941,
+            "venue_id":1108702605
+        }
+    ],
+    "wof:id":1108702605,
+    "wof:lastmodified":1474570871,
+    "wof:name":"Milk-it Software House",
+    "wof:parent_id":85766401,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-br",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software",
+        "software-house",
+        "web-development",
+        "interface",
+        "ia",
+        "ux",
+        "rails",
+        "ruby",
+        "python",
+        "c",
+        "php",
+        "web",
+        "web-2-0",
+        "happiness"
+    ]
+},
+  "bbox": [
+    -43.937268,
+    -19.944326,
+    -43.937268,
+    -19.944326
+],
+  "geometry": {"coordinates":[-43.937268,-19.944326],"type":"Point"}
+}

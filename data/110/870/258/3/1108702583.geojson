@@ -1,0 +1,75 @@
+{
+  "id": 1108702583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-43.2052311,-22.9842007,-43.2052311,-22.9842007",
+    "geom:latitude":-22.984201,
+    "geom:longitude":-43.205231,
+    "iso:country":"BR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Visconde de Piraja 547 801",
+    "sg:city":"Rio de Janeiro",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"22410900",
+    "sg:tags":[
+        "network",
+        "women",
+        "latin-america"
+    ],
+    "sg:website":"http://www.bolsademulher.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633009,
+        101953261,
+        85765197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ioTEpPsTrve68IYll05rC_-22.984201_-43.205231@1308163241"
+    },
+    "wof:country":"BR",
+    "wof:created":1474570870,
+    "wof:geomhash":"58accf255027707495245b2638e8f84e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633009,
+            "county_id":-1,
+            "locality_id":101953261,
+            "neighbourhood_id":85765197,
+            "region_id":-1,
+            "venue_id":1108702583
+        }
+    ],
+    "wof:id":1108702583,
+    "wof:lastmodified":1474570870,
+    "wof:name":"Bolsa de Mulher",
+    "wof:parent_id":85765197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-br",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "network",
+        "women",
+        "latin-america"
+    ]
+},
+  "bbox": [
+    -43.2052311,
+    -22.9842007,
+    -43.2052311,
+    -22.9842007
+],
+  "geometry": {"coordinates":[-43.2052311,-22.9842007],"type":"Point"}
+}

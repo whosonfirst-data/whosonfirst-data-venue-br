@@ -1,0 +1,84 @@
+{
+  "id": 1108702599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-48.5483418,-27.5995476,-48.5483418,-27.5995476",
+    "geom:latitude":-27.599548,
+    "geom:longitude":-48.548342,
+    "iso:country":"BR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rua Tiradentes, 201, sala 05, centro",
+    "sg:city":"Florianopolis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"88010430",
+    "sg:tags":[
+        "bytagg",
+        "rss-reader",
+        "twitter-alert",
+        "news",
+        "alert"
+    ],
+    "sg:website":"http://dp7digital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85767447,
+        102191577,
+        404565395,
+        85633009,
+        101958175,
+        102060383,
+        85682021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_644APNAHLTsG5zHB8QkLrA_-27.599548_-48.548342@1308163241"
+    },
+    "wof:country":"BR",
+    "wof:created":1474570871,
+    "wof:geomhash":"e4ac6da6c591aeb5ad469d2fb3a69ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102060383,
+            "localadmin_id":404565395,
+            "locality_id":101958175,
+            "neighbourhood_id":85767447,
+            "region_id":85682021,
+            "venue_id":1108702599
+        }
+    ],
+    "wof:id":1108702599,
+    "wof:lastmodified":1474570871,
+    "wof:name":"DP7 Digital",
+    "wof:parent_id":85767447,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-br",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bytagg",
+        "rss-reader",
+        "twitter-alert",
+        "news",
+        "alert"
+    ]
+},
+  "bbox": [
+    -48.5483418,
+    -27.5995476,
+    -48.5483418,
+    -27.5995476
+],
+  "geometry": {"coordinates":[-48.5483418,-27.5995476],"type":"Point"}
+}

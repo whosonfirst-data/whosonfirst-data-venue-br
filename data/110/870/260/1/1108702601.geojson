@@ -1,0 +1,98 @@
+{
+  "id": 1108702601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-43.954223,-19.815731,-43.954223,-19.815731",
+    "geom:latitude":-19.815731,
+    "geom:longitude":-43.954223,
+    "iso:country":"BR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Avenida do Contorno 3505 12o andar",
+    "sg:city":"Belo Horizonte",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"30110-060",
+    "sg:tags":[
+        "saas",
+        "video-platform",
+        "content-manager-platform",
+        "video",
+        "audio",
+        "images",
+        "video-advertising",
+        "digital-distribution",
+        "syndication",
+        "streaming",
+        "media-center",
+        "logistic"
+    ],
+    "sg:website":"http://www.sambatech.com.br",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85766887,
+        102191577,
+        404555407,
+        85633009,
+        101948983,
+        102053515,
+        85681941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g8GOneo7Ox68v0Oq61L6v_-19.815731_-43.954223@1308163238"
+    },
+    "wof:country":"BR",
+    "wof:created":1474570871,
+    "wof:geomhash":"58a83f06aaee2d691f579adbdd73fa05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102053515,
+            "localadmin_id":404555407,
+            "locality_id":101948983,
+            "neighbourhood_id":85766887,
+            "region_id":85681941,
+            "venue_id":1108702601
+        }
+    ],
+    "wof:id":1108702601,
+    "wof:lastmodified":1474570871,
+    "wof:name":"Samba Tech",
+    "wof:parent_id":85766887,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-br",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saas",
+        "video-platform",
+        "content-manager-platform",
+        "video",
+        "audio",
+        "images",
+        "video-advertising",
+        "digital-distribution",
+        "syndication",
+        "streaming",
+        "media-center",
+        "logistic"
+    ]
+},
+  "bbox": [
+    -43.954223,
+    -19.815731,
+    -43.954223,
+    -19.815731
+],
+  "geometry": {"coordinates":[-43.954223,-19.815731],"type":"Point"}
+}

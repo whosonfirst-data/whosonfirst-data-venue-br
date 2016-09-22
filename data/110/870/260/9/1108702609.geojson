@@ -1,0 +1,88 @@
+{
+  "id": 1108702609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-46.6920736,-23.5686832,-46.6920736,-23.5686832",
+    "geom:latitude":-23.568683,
+    "geom:longitude":-46.692074,
+    "iso:country":"BR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av. Brig. Faria Lima 1384 - 4o. andar",
+    "sg:city":"Sao Paulo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"01452002",
+    "sg:tags":[
+        "internet",
+        "ecommerce",
+        "security",
+        "anti-fraud",
+        "chargeback",
+        "credit-card",
+        "online-fraud"
+    ],
+    "sg:website":"http://www.verifica.com.br",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85765309,
+        102191577,
+        404567345,
+        85633009,
+        101965533,
+        102062255,
+        85682041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hOYApVcxuZWwgSiMSqCQz_-23.568683_-46.692074@1308163242"
+    },
+    "wof:country":"BR",
+    "wof:created":1474570871,
+    "wof:geomhash":"a3cbabb384a565ac1344257d22a5341a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102062255,
+            "localadmin_id":404567345,
+            "locality_id":101965533,
+            "neighbourhood_id":85765309,
+            "region_id":85682041,
+            "venue_id":1108702609
+        }
+    ],
+    "wof:id":1108702609,
+    "wof:lastmodified":1474570871,
+    "wof:name":"Verifica",
+    "wof:parent_id":85765309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-br",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet",
+        "ecommerce",
+        "security",
+        "anti-fraud",
+        "chargeback",
+        "credit-card",
+        "online-fraud"
+    ]
+},
+  "bbox": [
+    -46.6920736,
+    -23.5686832,
+    -46.6920736,
+    -23.5686832
+],
+  "geometry": {"coordinates":[-46.6920736,-23.5686832],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 1108702579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-46.6918186,-23.5612932,-46.6918186,-23.5612932",
+    "geom:latitude":-23.561293,
+    "geom:longitude":-46.691819,
+    "iso:country":"BR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Rua Inacio Pereira da Rocha 421, #5 Pinheiros",
+    "sg:city":"S\u00e3o Paulo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"05432-011",
+    "sg:tags":[
+        "latin-america",
+        "open-source",
+        "free-software",
+        "social-applications",
+        "web-applications",
+        "user-acquisition",
+        "linux",
+        "drupal",
+        "joomla",
+        "sugarcrm",
+        "freebsd",
+        "near-shoring",
+        "brazil",
+        "sao-paulo",
+        "migration",
+        "government"
+    ],
+    "sg:website":"http://www.northxsouth.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85765309,
+        102191577,
+        404567345,
+        85633009,
+        101965533,
+        102062255,
+        85682041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dWvcOv3kNbHQ2RIIqAETu_-23.561293_-46.691819@1308163240"
+    },
+    "wof:country":"BR",
+    "wof:created":1474570870,
+    "wof:geomhash":"fa3e39ef60c6c2f833e204a0dec4a63a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102062255,
+            "localadmin_id":404567345,
+            "locality_id":101965533,
+            "neighbourhood_id":85765309,
+            "region_id":85682041,
+            "venue_id":1108702579
+        }
+    ],
+    "wof:id":1108702579,
+    "wof:lastmodified":1474570870,
+    "wof:name":"North by South",
+    "wof:parent_id":85765309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-br",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "latin-america",
+        "open-source",
+        "free-software",
+        "social-applications",
+        "web-applications",
+        "user-acquisition",
+        "linux",
+        "drupal",
+        "joomla",
+        "sugarcrm",
+        "freebsd",
+        "near-shoring",
+        "brazil",
+        "sao-paulo",
+        "migration",
+        "government"
+    ]
+},
+  "bbox": [
+    -46.6918186,
+    -23.5612932,
+    -46.6918186,
+    -23.5612932
+],
+  "geometry": {"coordinates":[-46.6918186,-23.5612932],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1108702569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-46.692783,-23.60918,-46.692783,-23.60918",
+    "geom:latitude":-23.60918,
+    "geom:longitude":-46.692783,
+    "iso:country":"BR",
+    "mz:hierarchy_label":1,
+    "sg:address":"R. Arandu, 205, 04562-030  Brooklyn Novo",
+    "sg:city":"S\u00e3o Paulo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1110",
+    "sg:tags":[
+        "mobile",
+        "vas",
+        "community",
+        "social-networking",
+        "connected-devices",
+        "android",
+        "tablets",
+        "smartphones"
+    ],
+    "sg:website":"http://www.buongiorno.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85766041,
+        102191577,
+        404567345,
+        85633009,
+        101965533,
+        102062255,
+        85682041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IKWgqie7rTKoTG9gPyDzH_-23.609180_-46.692783@1308163237"
+    },
+    "wof:country":"BR",
+    "wof:created":1474570869,
+    "wof:geomhash":"1f1384bde7b35985fa4de1e5c91e0012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102062255,
+            "localadmin_id":404567345,
+            "locality_id":101965533,
+            "neighbourhood_id":85766041,
+            "region_id":85682041,
+            "venue_id":1108702569
+        }
+    ],
+    "wof:id":1108702569,
+    "wof:lastmodified":1474570869,
+    "wof:name":"Buongiorno",
+    "wof:parent_id":85766041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-br",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "vas",
+        "community",
+        "social-networking",
+        "connected-devices",
+        "android",
+        "tablets",
+        "smartphones"
+    ]
+},
+  "bbox": [
+    -46.692783,
+    -23.60918,
+    -46.692783,
+    -23.60918
+],
+  "geometry": {"coordinates":[-46.692783,-23.60918],"type":"Point"}
+}

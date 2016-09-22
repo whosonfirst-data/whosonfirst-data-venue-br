@@ -1,0 +1,84 @@
+{
+  "id": 1108702587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-46.6946978,-23.6100216,-46.6946978,-23.6100216",
+    "geom:latitude":-23.610022,
+    "geom:longitude":-46.694698,
+    "iso:country":"BR",
+    "mz:hierarchy_label":1,
+    "sg:address":"Av. Eng. Luis Carlos Berrini 1500  CJ 111 Brooklin Novo",
+    "sg:city":"S\u00e3o Paulo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"04571-000",
+    "sg:tags":[
+        "isp",
+        "internet",
+        "colocation",
+        "hosting",
+        "professional-services"
+    ],
+    "sg:website":"http://www.value4.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85766041,
+        102191577,
+        404567345,
+        85633009,
+        101965533,
+        102062255,
+        85682041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PDHzjKrCYENxiBnXgY71L_-23.610022_-46.694698@1308163242"
+    },
+    "wof:country":"BR",
+    "wof:created":1474570870,
+    "wof:geomhash":"ce6406cd8668171654ab64a6ed3f2b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102062255,
+            "localadmin_id":404567345,
+            "locality_id":101965533,
+            "neighbourhood_id":85766041,
+            "region_id":85682041,
+            "venue_id":1108702587
+        }
+    ],
+    "wof:id":1108702587,
+    "wof:lastmodified":1474570870,
+    "wof:name":"Value For Networks",
+    "wof:parent_id":85766041,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-br",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "isp",
+        "internet",
+        "colocation",
+        "hosting",
+        "professional-services"
+    ]
+},
+  "bbox": [
+    -46.6946978,
+    -23.6100216,
+    -46.6946978,
+    -23.6100216
+],
+  "geometry": {"coordinates":[-46.6946978,-23.6100216],"type":"Point"}
+}
